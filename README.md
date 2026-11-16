@@ -61,7 +61,7 @@ Epic
 
 ## Documentação
 
-O arquivo [`SobraBoa-PlanoTestes-GS2026.pdf`](./SobraBoa-PlanoTestes-GS2026.pdf) contém:
+O arquivo [`SobraBoa-PlanoTestes-GS2026.pdf`](./docs/SobraBoa-PlanoTestes-GS2026.pdf) contém:
 
 1. **Backlog do Projeto** — Epics, Features e PBIs no Azure DevOps
 2. **Descrição e Critério de Aceite das Features** — F01 a F12
