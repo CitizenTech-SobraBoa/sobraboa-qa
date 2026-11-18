@@ -68,6 +68,18 @@ O arquivo [`SobraBoa-PlanoTestes-GS2026.pdf`](./docs/SobraBoa-PlanoTestes-GS2026
 3. **Plano de Testes** — Árvore de Test Cases por Feature
 4. **Steps dos Test Cases** — Action e Expected Result de todos os 27 TCs
 
+## Testes Automatizados (Postman)
+
+A collection [`postman/SobraBoa_API.postman_collection.json`](./postman/SobraBoa_API.postman_collection.json) contém:
+
+- **42 testes automatizados** (27 TCs + requests de setup) cobrindo as 12 features
+- Execução via Collection Runner sem intervenção manual — 42/42 passando
+- Dados dinâmicos gerados via pre-request scripts (emails e CNPJs únicos por execução)
+- Variáveis de coleção auto-preenchidas (tokens JWT, IDs de doação/reserva, código de retirada)
+
+**API base:** `https://sobraboa-api-java.onrender.com`
+**Repositório da API:** [CitizenTech-SobraBoa/sobraboa-api-java](https://github.com/CitizenTech-SobraBoa/sobraboa-api-java)
+
 ---
 
 ## Informações Acadêmicas
