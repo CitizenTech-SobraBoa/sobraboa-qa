@@ -78,6 +78,7 @@ A collection [`postman/SobraBoa_API.postman_collection.json`](./postman/SobraBoa
 - Variáveis de coleção auto-preenchidas (tokens JWT, IDs de doação/reserva, código de retirada)
 
 **API base:** `https://sobraboa-api-java.onrender.com`
+
 **Repositório da API:** [CitizenTech-SobraBoa/sobraboa-api-java](https://github.com/CitizenTech-SobraBoa/sobraboa-api-java)
 
 ---
