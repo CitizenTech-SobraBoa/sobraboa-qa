@@ -70,7 +70,7 @@ O arquivo [`SobraBoa-PlanoTestes-GS2026.pdf`](./docs/SobraBoa-PlanoTestes-GS2026
 
 ## Testes Automatizados (Postman)
 
-A collection [`postman/SobraBoa_API.postman_collection.json`](./postman/SobraBoa_API.postman_collection.json) contém:
+A collection [`postman/SobraBoa_API.postman_collection.json`](https://github.com/CitizenTech-SobraBoa/sobraboa-qa/blob/main/postman/SobraBoa_API.postman_collection.json) contém:
 
 - **42 testes automatizados** (27 TCs + requests de setup) cobrindo as 12 features
 - Execução via Collection Runner sem intervenção manual — 42/42 passando
