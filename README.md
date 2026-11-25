@@ -83,6 +83,10 @@ A collection [`postman/SobraBoa API.postman_collection.json`](https://github.com
 
 ---
 
+## Vídeo Apresentação
+
+[Assista o vídeo](https://www.youtube.com/watch?v=fJU6JY920BY)
+
 ## Informações Acadêmicas
 
 - **Instituição:** FIAP
